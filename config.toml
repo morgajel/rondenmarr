@@ -1,0 +1,5 @@
+baseURL = "http://rondenmarr.com/"
+languageCode = "en-us"
+title = "Ronden Marr"
+theme = "ananke"
+#theme = "hyde-y"
