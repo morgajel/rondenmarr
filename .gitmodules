@@ -1,6 +1,15 @@
-[submodule "themes/ananke"]
-       path = themes/ananke
-       url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = https://github.com/sethmacleod/dimension.git
+[submodule "themes/travelify"]
+	path = themes/travelify
+	url = https://github.com/balaramadurai/hugo-travelify-theme.git
+[submodule "themes/universal"]
+	path = themes/universal
+	url = https://github.com/devcows/hugo-universal-theme
+[submodule "themes/strata"]
+	path = themes/strata
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
+[submodule "themes/swiftline"]
+	path = themes/swiftline
+	url = https://github.com/nsomar/github-project-landing-page.git

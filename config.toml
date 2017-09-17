@@ -1,8 +1,27 @@
 baseURL = "http://rondenmarr.com/"
 languageCode = "en-us"
 title = "Ronden Marr"
-theme = "ananke"
-
+theme = "swiftline"
 
 [params]
-  featured_image = "background.jpg"
+    description = "An underground campaign setting for Tabletop RPGs"
+    logo = "Ronden_Marr_Title_Logo-smallpatreon.png"
+    author_url = "http://morgajel.net"
+    dtrpg_url = "http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr"
+    author = "Morgajel"
+
+
+
+    first_color="#dddddd"
+    first_border_color="#000000"
+    first_text_color="#000000"
+
+    second_color="#00fff0"
+    second_text_color="#000000"
+
+    header_color="#000000"
+    header_text_color="#000000"
+
+    header_link_color="#000000"
+    header_link_hover_color="#000000"
+
