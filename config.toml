@@ -1,4 +1,4 @@
-baseURL = "http://rondenmarr.com/"
+baseURL = "https://rondenmarr.com/"
 languageCode = "en-us"
 title = "Ronden Marr"
 theme = "swiftline"
