@@ -4,12 +4,14 @@ title = "Ronden Marr"
 theme = "swiftline"
 
 [params]
-    description = "An underground campaign setting for Tabletop RPGs"
+    description = "An underground campaign setting for tabletop RPGs"
     logo = "Ronden_Marr_Title_Logo-smallpatreon.png"
-    author_url = "http://morgajel.net"
-    dtrpg_url = "http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr"
-    author = "Morgajel"
 
+    dtrpg_url = "http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr"
+    dtrpg_msg = "Support Us"
+
+    gplus_url = "https://plus.google.com/107906699862814290914"
+    gplus_msg = "@google+"
 
 
     first_color="#dddddd"
