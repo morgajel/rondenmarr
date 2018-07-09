@@ -13,3 +13,6 @@
 [submodule "themes/swiftline"]
 	path = themes/swiftline
 	url = https://github.com/nsomar/github-project-landing-page.git
+[submodule "themes/Hugo-Octopress"]
+	path = themes/hugo-octopress
+	url = https://github.com/parsiya/Hugo-Octopress.git

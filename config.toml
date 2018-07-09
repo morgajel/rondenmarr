@@ -1,29 +1,126 @@
+#
 baseURL = "https://rondenmarr.com/"
+disablePathToLower = false
 languageCode = "en-us"
 title = "Ronden Marr"
-theme = "swiftline"
+theme = "hugo-octopress"
+
+disqusShortname = "rondenmarr"
+# Number of blog posts in each pagination page
+paginate = 6
+
+# Code highlighting options
+
+# Highlight shortcode and code fences (```) will be treated similarly
+pygmentscodefences = true
+
+# Use CSS for highlighting
+pygmentsuseclasses = true
+
+# pygments options can be added here (and in the highlight shortcode in the markdown file)
+# Hugo supports these pygments options: style, encoding, noclasses, hl_lines, linenos
+# for example: pygmentsoptions = "linenos=true"
+
+[permalinks]
+post = "/post/:year-:month-:day-:title/"
+
+[[menu.main]]
+  Name = "Home"
+  URL = "/"
+  weight = -20
+
+[[menu.main]]
+  Name = "News"
+  URL = "/post"
+  weight = -15
+
+[[menu.main]]
+  Name = "Products"
+  URL = "/page"
+  weight = -10
+
+[[menu.main]]
+  Name = "About"
+  URL = "/about"
+  weight = -5
+
+[[menu.sidebar]]
+  Name = "Core Books"
+  URL = "/categories/5e/"
+  weight = 1
+
+[[menu.sidebar]]
+  Name = "5e Supplements"
+  URL = "/categories/5e/"
+  weight = 2
+
+
+
+[indexes]
+   tag = "tags"
+   category = "categories"
+
 
 [params]
-    description = "An underground campaign setting for tabletop RPGs"
-    logo = "Ronden_Marr_Title_Logo-smallpatreon.png"
 
-    dtrpg_url = "http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr"
-    dtrpg_msg = "Support Us"
+  # --- Start sidebar options ---
+  # Number of last posts that will be displayed in the sidebar - set to 0 or remove to hide this section
+  sidebarRecentLimit = 5
 
-    gplus_url = "https://plus.google.com/107906699862814290914"
-    gplus_msg = "@google+"
+  # Sidebar header - passed to markdownify so you can write markdown here
+  sidebarHeader = "Sidebar Header"
+
+#    logo = "Ronden_Marr_Title_Logo-smallpatreon.png"
+  sidebarText = """
+[Support Us on DTRPG](http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr)
+    </br>
+    or follow us here:
+"""
+  twitter = "https://twitter.com/RondenMarr"
+  googleplus = "https://plus.google.com/107906699862814290914"
+  facebook = "https://www.facebook.com/RondenMarr/"
+
+  navigationNewWindow = true
+  truncate = true
+
+  author = "Jesse Morgan"
+
+  # This text appears in site header under website title
+  subtitle = "Dwarves may rule with an iron fist, but much worse awaits in The Undercavern."
+
+  # Search engine URL
+  searchEngineURL = "https://www.google.com/search"
+
+  # Text of the "Continue Reading" label. &rarr; == right arrow, but it gets messed up in the string so it was added to index.html manually
+  continueReadingText = "Delve deeper..."
+
+  # Google analytics code - remove if you do not have/want Google Analytics - needs JavaScript
+  googleAnalytics = "UA-121983314-2"
 
 
-    first_color="#dddddd"
-    first_border_color="#000000"
-    first_text_color="#000000"
+  # Switch to true to enable RSS icon link
+  rss = true
 
-    second_color="#00fff0"
-    second_text_color="#000000"
+  # Set to true to use a text label for RSS instead of an icon
+  # This is overwritten by the "rss" setting
+  textrss = false
 
-    header_color="#000000"
-    header_text_color="#000000"
+  # Website's default description
+  defaultDescription = "An underground campaign setting for tabletop RPGs"
 
-    header_link_color="#000000"
-    header_link_hover_color="#000000"
+  notFoundHeader = "This appears to be a dead end."
+
+  notFoundText = "Please either go back or use the navigation/sidebar menus."
+
+  # Set to true to hide ReadingTime on posts
+  disableReadingTime = true
+
+  # Set to true to disable downloading of remote Google fonts
+  disableGoogleFonts = false
+
+  # Remove or Set to false to use local fonts
+  remoteFonts = false
+
+  # Remove or set to false to use FontAwesome CDN, otherwise the theme uses ForkAwesome local fonts.
+  # fontAwesome = false
 
