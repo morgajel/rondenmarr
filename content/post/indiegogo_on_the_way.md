@@ -1,6 +1,6 @@
 ---
 title: "A Different Type of Campaign..."
-date: ":Year-:Month-:Day"
+date: "2018-07-09"
 draft: false
 toc: false
 comments: true

@@ -1,3 +1,17 @@
+---
+title: "Player's Guide"
+date: "2015-05-27"
+draft: false
+toc: false
+comments: false
+categories:
+- Core Book
+tags:
+- Products
+---
+
+<span class="coverimg">![Player's Guide Cover](/products/playersguide.png)</style>
+
 > Two hundred years ago, the surface world was burned away in an event known as The Calamity. Several races found refuge in the dwarven kingdom of Mornfaruhm. Things have not gone well for the survivors- riots, starvation, cannibalism, genocide, and more. Alliances have shifted, and new factions rise and fall.
 > 
 > Dwarves, goblins, humans, and others must put aside their animosity to survive and keep the last remaining civilization from imploding.
@@ -17,3 +31,4 @@ The *Ronden Marr Player's Guide* is a 17 page introduction to the world of Ronde
 ### Q. Where can I get it?
 **A.** It is currently available here at DriveThruRPG.com
 The main "Player's Guide" was released in July 2015, with others following as they are completed.
+

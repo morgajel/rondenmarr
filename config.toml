@@ -80,7 +80,7 @@ post = "/post/:year-:month-:day-:title/"
   googleplus = "https://plus.google.com/107906699862814290914"
   facebook = "https://www.facebook.com/RondenMarr/"
 
-  navigationNewWindow = true
+  navigationNewWindow = false
   truncate = true
 
   author = "Jesse Morgan"
@@ -123,4 +123,5 @@ post = "/post/:year-:month-:day-:title/"
 
   # Remove or set to false to use FontAwesome CDN, otherwise the theme uses ForkAwesome local fonts.
   # fontAwesome = false
+  customCSS = ["css/custom.css"]
 
