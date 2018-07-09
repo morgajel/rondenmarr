@@ -1,5 +1,7 @@
 ---
 title: About Ronden Marr
+date: 2016-05-01
+draft: false
 ---
 Ronden Marr is a system-agnostic campaign setting for tabletop roleplaying games that focuses on Intrigue, Exploration, and Discovery.
 
