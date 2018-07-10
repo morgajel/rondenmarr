@@ -4,12 +4,14 @@ date: "2016-04-26"
 draft: false
 toc: false
 comments: false
+img: "explorersguide.png"
+storelink: "http://www.drivethrurpg.com/product/181524/Ronden-Marr-Explorers-Guide&src=rondenmarr.com"
 categories:
 - Core Book
 tags:
 - Products
 ---
-<span class="coverimg">![Explorer's Guide Cover](/products/explorersguide.png)</style>
+<span class="coverimg">![Explorer's Guide Cover](/product/explorersguide.png)</style>
 
 > Seventeen years after the discovery of the Serpentine Pass, the dwarves of Ronden Marr have opened the gates to The Undercavern. Few have ventured into the darkness; those with the skill and luck to return have told tales of horrible and bizarre creatures, arcane mysteries, ancient architecture, and unfathomable riches awaiting any bold enough to seek them out.
 > 

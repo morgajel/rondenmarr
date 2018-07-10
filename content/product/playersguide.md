@@ -4,12 +4,14 @@ date: "2015-05-27"
 draft: false
 toc: false
 comments: false
+img: "playersguide.png"
+storelink: "http://drivethrurpg.com/product/153600/Ronden-Marr-Players-Guide&src=rondenmarr.com"
 categories:
 - Core Book
 tags:
 - Products
 ---
-<span class="coverimg">![Player's Guide Cover](/products/playersguide.png)</span>
+<span class="coverimg">![Player's Guide Cover](/product/playersguide.png)</span>
 
 > Two hundred years ago, the surface world was burned away in an event known as The Calamity. Several races found refuge in the dwarven kingdom of Mornfaruhm. Things have not gone well for the survivors- riots, starvation, cannibalism, genocide, and more. Alliances have shifted, and new factions rise and fall.
 > 

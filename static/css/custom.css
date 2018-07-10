@@ -1,6 +1,6 @@
 
 .coverimg {
     margin-right: 1em;
-    display: inline;
+    display: inline-block;
     float: left;
 }

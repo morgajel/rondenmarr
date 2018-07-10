@@ -4,12 +4,14 @@ date: "2016-05-10"
 draft: false
 toc: false
 comments: false
+img: "thelostforge.png"
+storelink: "http://www.drivethrurpg.com/product/182227/The-Lost-Forge&src=rondenmarr.com"
 categories:
 - 5e
 tags:
 - Products
 ---
-<span class="coverimg">![The Lost Forge Cover](/products/thelostforge.png)</style>
+<span class="coverimg">![The Lost Forge Cover](/product/thelostforge.png)</style>
 
 > Tired and delirious, a human boy named Telly approaches you. He pleads for help, explaining that he and his friends had found an old forge. They were attacked and he was the only one that escaped. He asks that you accompany him to rescue his friends before it is too late.
 
