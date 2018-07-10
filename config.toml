@@ -68,7 +68,7 @@ post = "/post/:year-:month-:day-:title/"
   sidebarRecentLimit = 5
   sidebarMenuEnabled = true
   sidebarMenuHeader = "Products"
-#    logo = "Ronden_Marr_Title_Logo-smallpatreon.png"
+  logo = "Ronden_Marr_Title_Logo.png"
   sidebarText = """
 
 [Support Us on DTRPG](http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr)
