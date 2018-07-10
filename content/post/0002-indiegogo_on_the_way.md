@@ -1,16 +1,13 @@
 ---
 title: "A Different Type of Campaign..."
-date: "2018-07-09"
+date: "2018-07-08"
 draft: false
 toc: false
-comments: true
+comments: false
 categories:
-- Core Book
+- News
 tags:
 - Biographer's Guide
-- News
 ---
-
-
 An Indiegogo campaign is on the way- please stay tuned for details.
 <!--more-->

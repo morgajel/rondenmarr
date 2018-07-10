@@ -9,7 +9,6 @@ categories:
 tags:
 - Products
 ---
-
 <span class="coverimg">![Explorer's Guide Cover](/products/explorersguide.png)</style>
 
 > Seventeen years after the discovery of the Serpentine Pass, the dwarves of Ronden Marr have opened the gates to The Undercavern. Few have ventured into the darkness; those with the skill and luck to return have told tales of horrible and bizarre creatures, arcane mysteries, ancient architecture, and unfathomable riches awaiting any bold enough to seek them out.
@@ -18,6 +17,8 @@ tags:
 
 
 The *Ronden Marr Explorer's Guide* is a 61 page introduction to The Undercavern that awaits under Ronden Marr. This book contains crucial details that could save the life of an explorer.
+
+Buy the [Ronden Marr Explorer's Guide](http://www.drivethrurpg.com/product/181524/Ronden-Marr-Explorers-Guide&src=rondenmarr.com) at DriveThruRPG.com
 
 # F.A.Q.
 ### Q. What is Ronden Marr ?

@@ -9,14 +9,15 @@ categories:
 tags:
 - Products
 ---
-
-<span class="coverimg">![Player's Guide Cover](/products/playersguide.png)</style>
+<span class="coverimg">![Player's Guide Cover](/products/playersguide.png)</span>
 
 > Two hundred years ago, the surface world was burned away in an event known as The Calamity. Several races found refuge in the dwarven kingdom of Mornfaruhm. Things have not gone well for the survivors- riots, starvation, cannibalism, genocide, and more. Alliances have shifted, and new factions rise and fall.
 > 
 > Dwarves, goblins, humans, and others must put aside their animosity to survive and keep the last remaining civilization from imploding.
 
 The *Ronden Marr Player's Guide* is a 17 page introduction to the world of Ronden Marr. Covering the history and culture that lead to the underground city, the player's guide gives you everything you need to understand your surroundings.
+
+Buy the [Ronden Marr Player's Guide](http://drivethrurpg.com/product/153600/Ronden-Marr-Players-Guide&src=rondenmarr.com) at DriveThruRPG.com
 
 # F.A.Q.
 ### Q. What is Ronden Marr exactly?

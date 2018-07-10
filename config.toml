@@ -46,7 +46,7 @@ post = "/post/:year-:month-:day-:title/"
 
 [[menu.sidebar]]
   Name = "Core Books"
-  URL = "/categories/5e/"
+  URL = "/categories/core-book/"
   weight = 1
 
 [[menu.sidebar]]
@@ -66,12 +66,11 @@ post = "/post/:year-:month-:day-:title/"
   # --- Start sidebar options ---
   # Number of last posts that will be displayed in the sidebar - set to 0 or remove to hide this section
   sidebarRecentLimit = 5
-
-  # Sidebar header - passed to markdownify so you can write markdown here
-  sidebarHeader = "Sidebar Header"
-
+  sidebarMenuEnabled = true
+  sidebarMenuHeader = "Products"
 #    logo = "Ronden_Marr_Title_Logo-smallpatreon.png"
   sidebarText = """
+
 [Support Us on DTRPG](http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr)
     </br>
     or follow us here:
@@ -114,6 +113,8 @@ post = "/post/:year-:month-:day-:title/"
 
   # Set to true to hide ReadingTime on posts
   disableReadingTime = true
+
+  generateTaxonomyList = true
 
   # Set to true to disable downloading of remote Google fonts
   disableGoogleFonts = false
