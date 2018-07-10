@@ -36,7 +36,7 @@ post = "/post/:year-:month-:day-:title/"
 
 [[menu.main]]
   Name = "Products"
-  URL = "/page"
+  URL = "/product"
   weight = -10
 
 [[menu.main]]
