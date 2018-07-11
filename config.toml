@@ -71,7 +71,9 @@ post = "/post/:year-:month-:day-:title/"
   logo = "Ronden_Marr_Title_Logo.png"
   sidebarText = """
 
-[Support Us on DTRPG](http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr)
+[<img src="Ronden_Marr_Title_Logo.png" class="sidebarlogo" />](http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr)
+<br/>
+Support us on [![dtrpg](/DrivethruRPG.png)](http://drivethrurpg.com/browse/pub/6296/Morgajel/subcategory/19955_23676/Ronden-Marr)
     </br>
     or follow us here:
 """
