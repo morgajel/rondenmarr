@@ -1,4 +1,13 @@
 
+html {
+    background: #282624;
+}
+
+
+body>header {
+    background: #211B16;
+}
+
 aside.sidebar img.sidebarlogo {
     border: none;
     border-radius: 0em;
