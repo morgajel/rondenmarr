@@ -2,7 +2,7 @@
 addons:
   apt:
     packages:
-      - hugo
+      - https://github.com/gohugoio/hugo/releases/download/v0.45/hugo_0.45_Linux-64bit.deb
 
 # Clean and don't fail
 install:
