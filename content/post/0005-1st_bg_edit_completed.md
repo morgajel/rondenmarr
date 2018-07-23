@@ -9,6 +9,7 @@ categories:
 tags:
 - Biographer's Guide
 ---
+
 While out of town on a work trip, I spent my down time working on the Biographer's Guide.
 
 <!--more-->
