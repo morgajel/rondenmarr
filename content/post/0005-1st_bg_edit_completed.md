@@ -10,7 +10,9 @@ tags:
 - Biographer's Guide
 ---
 While out of town on a work trip, I spent my down time working on the Biographer's Guide.
+
 <!--more-->
+
 As of right now I've reviewed the first draft and marked a ton of changes to be made for the second draft. I'm currently 40 pages in (of 147) to creating the second draft (This is double-spaced).
 
 With any luck I should be able to get this finished up in a day or two.
