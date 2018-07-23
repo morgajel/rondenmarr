@@ -8,5 +8,5 @@ install:
 
 # Build the website
 script:
-  - hugo --theme=octopress
+  - hugo
 
