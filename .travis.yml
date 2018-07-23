@@ -2,7 +2,7 @@
 addons:
   apt:
     packages:
-      - python-pygments
+      - hugo
 
 # Clean and don't fail
 install:
@@ -10,6 +10,5 @@ install:
 
 # Build the website
 script:
-  - cd src
-  - ../binaries/hugo --theme=octopress
+  - hugo --theme=octopress
 
