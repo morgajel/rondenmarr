@@ -22,3 +22,11 @@ aside.sidebar img.sidebarlogo {
     display: inline-block;
     float: left;
 }
+
+.npcimg img {
+display: block;
+height: 400px;
+}
+.npcimg.after{
+clear: all;
+}
