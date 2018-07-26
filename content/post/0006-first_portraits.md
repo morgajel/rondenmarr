@@ -11,7 +11,7 @@ tags:
 - Artwork
 ---
 
-Things just got a whole lot more real. I received the first batch of portraits from Steven today and wanted to share how awesome they look.
+Things just got a whole lot more real. I received the first batch of portraits from [Steven](https://stonedrunkwizard.tumblr.com/) today and wanted to share how awesome they look.
 
 First up is Modif the Cobalt, Priest of Sanith:
 <span class="npcimg"> ![Modif the Cobalt](/NPCs/Modif_the_Cobalt.jpg)</span>
