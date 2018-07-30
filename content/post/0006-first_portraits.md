@@ -5,10 +5,10 @@ draft: false
 toc: false
 comments: true
 categories:
-- news
+- News
 tags:
-- biographer's guide
-- artwork
+- Biographers Guide
+- Artwork
 ---
 
 Things just got a whole lot more real. I received the first batch of portraits from [Steven De Waele](https://stonedrunkwizard.tumblr.com/) today and wanted to share how awesome they look.

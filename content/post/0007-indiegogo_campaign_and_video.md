@@ -5,10 +5,10 @@ draft: false
 toc: false
 comments: true
 categories:
-- news
+- News
 tags:
-- biographer's guide
-- indiegogo
+- Biographers Guide
+- Indiegogo
 ---
 
 I'm going to be otherwise occupied for the next few days but wanted to give a status update. [Steven](https://stonedrunkwizard.tumblr.com/) provided a quick video for the indiegogo campaign- I was able to insert it into the kdenlive project without much hassle (as well as his artwork) and it looks pretty decent. Next week I'd like to re-record my section of the video to be a little better quality.

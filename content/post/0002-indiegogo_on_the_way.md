@@ -7,7 +7,8 @@ comments: false
 categories:
 - News
 tags:
-- Biographer's Guide
+- Biographers Guide
+- Indiegogo
 ---
 An Indiegogo campaign is on the way- please stay tuned for details.
 <!--more-->

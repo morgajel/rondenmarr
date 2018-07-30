@@ -7,7 +7,8 @@ comments: false
 categories:
 - News
 tags:
-- Biographer's Guide
+- Biographers Guide
+- Indiegogo
 ---
 With the indiegogo campaign for the *Ronden Marr Biographer's Guide* on the horizon, I figured I should probably spruce up the site a bit. It'll still be low output, but hopefully provide a better experience for anyone wandering through.
 <!--more-->

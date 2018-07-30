@@ -5,9 +5,9 @@ draft: false
 toc: false
 comments: true
 categories:
-- news
+- News
 tags:
-- biographer's guide
+- Biographers Guide
 ---
 
 I've finished the first round of edits on the second draft- 147 pages printed, corrected, and inserted back into scrivener. Now comes the difficult part- data normalization.
