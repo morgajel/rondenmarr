@@ -12,6 +12,7 @@ tags:
 
 Occupation is one of the many pieces of information each character has in the Biographer's Guide. While normalizing entries in the second draft, I collected the list of those occupations to share. There's currently over 150, and keep in mind that some individuals have more than one occupation.
 
+<!--more-->
 
 * Actor
 * Alchemist
