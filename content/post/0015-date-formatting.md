@@ -1,5 +1,5 @@
 ---
-title: "Date Formattinn"
+title: "Date Formatting"
 date: "2018-08-26"
 draft: false
 toc: false
