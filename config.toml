@@ -3,9 +3,9 @@ baseURL = "https://rondenmarr.com/"
 disablePathToLower = false
 languageCode = "en-us"
 title = "Ronden Marr"
-theme = "hugo-octopress"
+theme = "Hugo-Octopress"
 
-disqusShortname = "rondenmarr"
+Config.Services.Disqus.Shortname = "rondenmarr"
 # Number of blog posts in each pagination page
 paginate = 6
 
